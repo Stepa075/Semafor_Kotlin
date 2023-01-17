@@ -24,7 +24,7 @@
         android:layout_height="100dp"
         android:layout_marginTop="16dp"
         android:background="@android:color/transparent"
-        android:onClick="clickStartStop"
+        android:onClick="onClickStartStop"
         android:scaleType="fitCenter"
         android:src="@drawable/button_start"
         app:layout_constraintEnd_toEndOf="parent"
